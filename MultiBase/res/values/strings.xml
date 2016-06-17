@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HylBase</string>
+    <string name="hello_world">Hello world!</string>
+
+
+    <string name="alipay_success">支付成功</string>
+    <string name="alipay_fail">支付失败</string>
+    <string name="alipay_confirmation">支付结果确认中</string>
+    <string name="alipay_cancel">取消支付</string>
+    <string name="network_error">网络链接错误</string>
+    <string name="load_data">正在加载...</string>
+    <string name="loading_fail_server">获取数据失败,请刷新看看~~</string>
+
+    <!-- 版本更新 -->
+    <string name="update_notes">更新说明:</string>
+    <string name="sdcardnotexits">SD卡不存在</string>
+    <string name="update_if_cancel">是否取消升级？</string>
+    <string name="down_if_cancel">是否取消下载？</string>
+    <string name="update_failed">升级失败！</string>
+    <string name="down_failed">下载失败！</string>
+    <string name="down_success">下载成功！</string>
+    <string name="update">更新提示</string>
+    <string name="down">下载提示</string>
+</resources>

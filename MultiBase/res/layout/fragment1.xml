@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FBB55D"
+    android:gravity="center" 
+      android:clipChildren="false"
+  android:layerType="software">
+        <android.support.v4.view.ViewPager
+            android:id="@+id/id_guide_viewpager"
+            android:layout_width="fill_parent"
+            android:layout_height="200dp"
+            android:flipInterval="30"
+            android:persistentDrawingCache="animation" 
+             android:layout_marginLeft="20dp"
+			 android:layout_marginRight="20dp"/>
+    
+    
+    <TextView android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_world"
+       />
+
+    <Button
+        android:id="@+id/tohome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="to home"
+        />
+    
+    <ImageView android:id="@+id/imgview"
+        
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        
+        android:src="@drawable/head"/>
+    
+
+</LinearLayout>

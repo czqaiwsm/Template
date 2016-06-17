@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--textSize-->
+    <dimen name="txt_size_large">20sp</dimen>
+    <dimen name="txt_size_normal">18sp</dimen>
+    <dimen name="txt_size_center">16sp</dimen>
+    <dimen name="txt_size_small">14sp</dimen>
+    <dimen name="txt_size_tiny">12sp</dimen>
+    <!--textSize-->
+
+    <dimen name="maint_bottom_txt_size">13sp</dimen>
+    <dimen name="maint_bottom_margintop">3dp</dimen>
+    <dimen name="maint_bottom_marginbot">2dp</dimen>
+    <dimen name="margin">18dp</dimen>
+    <dimen name="distance">6dp</dimen>
+    <dimen name="cornor">5dp</dimen>
+    <dimen name="dialog_title">22dp</dimen>
+    <dimen name="dialog_content">18dp</dimen>
+</resources>
